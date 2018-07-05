@@ -87,6 +87,12 @@ public class Main {
         System.out.println("Hello");
         System.out.println("Hello");
         System.out.println("Hi");
+        System.out.println("Hi");
+        System.out.println("Hi");
+        System.out.println("Hi");
+        System.out.println("Hi");
+        System.out.println("Hi");
+        System.out.println("Hi");
     }
 
     public static void main4(String[] args) {
