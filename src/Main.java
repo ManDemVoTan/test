@@ -42,6 +42,7 @@ public class Main {
         System.out.println("Hello");
         System.out.println("Hello");
         System.out.println("Hello");
+        System.out.println("hiiiii");
     }
 
     public static void main2(String[] args) {
